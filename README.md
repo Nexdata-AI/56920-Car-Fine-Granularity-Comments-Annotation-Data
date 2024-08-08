@@ -3,7 +3,7 @@
 ## Description
 It collectes comments from different car forums and fine-grained annotation is carried out on posts commented by users. Annotations include labels of manufacturer, brand, model, attribute, description value, tendency, etc. It can be used in fine-grained natural language understanding research, emotion analysis and some other fields.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/135?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/135?source=Github
 
 
 # Specifications
